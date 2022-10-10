@@ -1,5 +1,5 @@
-# Fckin wow shit app, all note to me :D VinhDEPTRAI
-## Template syntax: fuck
+
+## Template syntax: 
 **{{ expression or statement}}** -> interpolation : you can write expression in this
 ```typescript
     {{ 1 + 1 }}
